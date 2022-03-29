@@ -3,17 +3,19 @@ title: Privacy Policy
 layout: page.njk
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id rhoncus est. Nullam sit amet justo nisi. Aliquam elementum iaculis nulla bibendum congue. Integer convallis ut nisi at tincidunt. Sed eu diam ex. Ut efficitur velit ut ultrices semper. Morbi suscipit ut purus a placerat. Cras massa lorem, pretium et nibh in, faucibus fermentum dolor. Nulla lacinia malesuada molestie. Proin et risus turpis. Aenean lacinia, orci at egestas fringilla, sem libero facilisis lectus, ut porta justo ligula a quam. Mauris vulputate purus mauris, eget semper ante rutrum id. Duis vestibulum, turpis at ultricies aliquam, enim dolor lobortis leo, at laoreet elit odio at nunc. Aliquam sit amet erat mi.
+Last updated: March 29 2022
 
-Cras mattis justo id convallis porta. Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id. Mauris ornare massa a nisi gravida, id ultrices ex cursus. Donec quis porttitor nisl, non viverra dui. Donec nec gravida arcu. Pellentesque dignissim at libero id bibendum. Vivamus pulvinar nibh risus, et egestas odio interdum id. Cras eleifend risus molestie mollis finibus. Aenean tortor elit, accumsan vel fermentum pharetra, molestie ut felis.
+Tide ("us", "we", or "our") operates https://tide.github.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Aliquam semper felis sed leo sodales scelerisque. Vivamus vitae erat vel tellus condimentum consectetur at ac velit. Mauris massa tortor, cursus sit amet turpis in, lacinia ultricies nulla.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
 
-Integer finibus sem sit amet diam luctus, ut posuere enim dapibus. Nunc euismod dignissim dui a maximus. Phasellus pulvinar neque at lorem ultricies suscipit. Maecenas felis erat, ornare eget egestas et, ultricies vitae ante. In convallis quam lectus, sit amet elementum ligula pulvinar ac. Integer sapien ipsum, congue a purus vel, sollicitudin lacinia ligula. Ut varius sit amet lectus quis congue. Ut viverra lectus tellus, a pharetra neque egestas eu. Morbi feugiat, arcu id bibendum vulputate, risus mi finibus enim, sed pulvinar ipsum sem eu risus. Aenean accumsan elementum ipsum, eu porttitor libero auctor at. Duis nec ipsum velit. Aliquam ac ullamcorper nisl. Duis mattis malesuada leo, quis egestas turpis molestie nec. Curabitur dui tortor, volutpat quis varius et, posuere eget augue. Praesent sed pretium dui. Vivamus auctor ex vitae nisl commodo interdum.
+## Information Collection And Use
 
-Nam non quam vel velit sagittis consequat non vel odio. Phasellus condimentum dictum orci, quis rhoncus lacus hendrerit non. Ut vel nisl lectus. Duis vitae varius enim. Morbi placerat urna sit amet sollicitudin viverra. Vivamus maximus metus ac ornare venenatis. Ut suscipit nec sapien ac fringilla. Phasellus et justo eget odio lacinia feugiat. Nullam laoreet eros a lectus pretium, sed euismod velit tincidunt.
+While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to your email ("Personal Information").
 
-#### Website enhancements ####
+We will not disclose or distribute your Personal Information to third parties (ie. outside the Tide development team) without your consent.
+
+## Website enhancements
 
 This website uses the follwing packages from <a href="https://unpkg.com" rel="noopener" target="_blank" title="UNPKG">unpkg.com</a>:
 
@@ -22,6 +24,28 @@ This website uses the follwing packages from <a href="https://unpkg.com" rel="no
 
 Using these packages, personal data may be transmitted.
 
-### Your rights ###
+## Communications
 
-Integer finibus sem sit amet diam luctus, ut posuere enim dapibus. Nunc euismod dignissim dui a maximus. Phasellus pulvinar neque at lorem ultricies suscipit. Maecenas felis erat, ornare eget egestas et, ultricies vitae ante. In convallis quam lectus, sit amet elementum ligula pulvinar ac. Integer sapien ipsum, congue a purus vel, sollicitudin lacinia ligula. Ut varius sit amet lectus quis congue. Ut viverra lectus tellus, a pharetra neque egestas eu. Morbi feugiat, arcu id bibendum vulputate, risus mi finibus enim, sed pulvinar ipsum sem eu risus. Aenean accumsan elementum ipsum, eu porttitor libero auctor at. Duis nec ipsum velit. Aliquam ac ullamcorper nisl. Duis mattis malesuada leo, quis egestas turpis molestie nec. Curabitur dui tortor, volutpat quis varius et, posuere eget augue. Praesent sed pretium dui. Vivamus auctor ex vitae nisl commodo interdum.
+We may use your Personal Information to contact you with product updates, marketing or promotional materials and other information that pertains to the development of Tide.
+
+## Cookies
+
+Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer's hard drive.
+
+Like many sites, we use "cookies" to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent.
+
+## Security
+
+The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## Changes To This Privacy Policy
+
+This Privacy Policy is effective as of March 29 2022 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+
+We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+
+If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us.
