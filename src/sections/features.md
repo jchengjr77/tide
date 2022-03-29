@@ -1,7 +1,7 @@
 ---
-title: Most AWE.SOME Features
+title: Tide
 afterTitle: ...and so much more!
 type: features
 ---
 
-Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id.
+Onboard into the Web3 game seamlessly.

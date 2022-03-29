@@ -1,13 +1,13 @@
 [
   {
-    "title": "AWE.SOME Feature One",
-    "icon": "icon1.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Simple",
+    "icon": "icon2.svg",
+    "content": "Tide strips away all extraneous details and tasks, allowing you to focus on the essentials. Our streamlined onboarding process is designed to be as easy as possible."
   },
   {
-    "title": "AWE.SOME Feature Two",
-    "icon": "icon2.svg",
-    "content": "Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt."
+    "title": "Only What's Necessary (OWN)",
+    "icon": "icon1.svg",
+    "content": "Everybody's web3 journey is different. Your onboarding experience will be tailored to your specific endeavors, only including technologies relevant to your goals."
   },
   {
     "title": "AWE.SOME Feature Three",

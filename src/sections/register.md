@@ -3,4 +3,5 @@ title: Registration
 type: register
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi.
+You'll get exclusive access to Tide's early releases.
+Grab your spot on the waitlist!
