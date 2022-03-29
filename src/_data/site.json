@@ -1,17 +1,13 @@
 {
   "baseURL": "https://awesome11ty.ttntm.me",
-  "author": "AWE.SOME",
-  "description": "AWE.SOMEty - A Landing Page Template for 11ty",
-  "title": "AWE.SOMEty - A Landing Page Template for 11ty",
+  "author": "jchengjr77",
+  "description": "Tide: Making Web3 Easy",
+  "title": "Tide",
   "language": "en",
   "social": [
     {
       "title": "Twitter",
-      "url": "https://twitter.com/#"
-    },
-    {
-      "title": "LinkedIn",
-      "url": "https://linkedin.com/company/#"
+      "url": "https://twitter.com/web3tide"
     }
   ]
 }
